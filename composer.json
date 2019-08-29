@@ -1,5 +1,5 @@
 {
-    "name": "davidrjonas/composer-lock-diff",
+    "name": "enomotodev/composer-lock-diff",
     "description": "See what has changed after a composer update.",
     "authors": [{
         "name": "David Jonas",
