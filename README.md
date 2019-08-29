@@ -12,7 +12,7 @@ Install
 -------
 
 ```bash
-composer global require davidrjonas/composer-lock-diff:^1.0@dev
+composer global require enomotodev/composer-lock-diff
 ```
 
 Or just copy the 'composer-lock-diff' to `/usr/local/bin`.
@@ -92,18 +92,4 @@ Markdown Table
 | Dev Changes                                             | From   | To      | Compare |
 |---------------------------------------------------------|--------|---------|---------|
 | [phpspec/php-diff](https://github.com/phpspec/php-diff) | v1.0.2 | REMOVED |         |
-
-Contributors
-============
-
-Thanks to everyone who has shared ideas and code! In particular,
-
-- https://github.com/delamart
-- https://github.com/prometheas
-- https://github.com/paxal
-- https://github.com/nclavaud
-- https://github.com/cafferata
-- https://github.com/ihor-sviziev
-- https://github.com/wiese
-- https://github.com/enomotodev
 
